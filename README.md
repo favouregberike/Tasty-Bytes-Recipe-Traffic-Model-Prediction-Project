@@ -1,4 +1,5 @@
-# Tasty Bytes — Recipe Traffic Prediction Project
+# Tasty Bytes: Recipe Traffic Prediction Project
+https://tasty-bytes-recipe-traffic-model-prediction-project-8el6bh5ddg.streamlit.app/
 
 ## Overview
 
