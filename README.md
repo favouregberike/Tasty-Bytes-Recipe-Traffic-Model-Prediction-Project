@@ -1,5 +1,5 @@
 # Tasty Bytes: Recipe Traffic Prediction Project
-**[Live Demo →]([YOUR_STREAMLIT_URL](https://tasty-bytes-recipe-traffic-model-prediction-project-8el6bh5ddg.streamlit.app/))
+**[Live Demo →](https://tasty-bytes-recipe-traffic-model-prediction-project-8el6bh5ddg.streamlit.app/)
 
 ## Overview
 
